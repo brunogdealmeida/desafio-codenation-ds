@@ -1,9 +1,11 @@
-O contexto do desafio gira em torno dos resultados do ENEM 2016 (disponíveis no arquivo train.csv). Este arquivo, e apenas ele, deve ser utilizado para todos os desafios. Qualquer dúvida a respeito das colunas, consulte o Dicionário dos Microdados do Enem 2016.
-Muitas universidades brasileiras utilizam o ENEM para selecionar seus futuros alunos e alunas. Isto é feito com uma média ponderada das notas das provas de matemática, ciências da natureza, linguagens e códigos, ciências humanas e redação, com os pesos abaixo:
-matemática: 3
-ciências da natureza: 2
-linguagens e códigos: 1.5
-ciências humanas: 1
-redação: 3
-No arquivo test.csv crie um modelo para prever nota da prova de matemática (coluna NU_NOTA_MT) de quem participou do ENEM 2016.
+#Desafio AceleraDev Codenation - Maio 2020
+
+O contexto do desafio gira em torno dos resultados do ENEM 2016 (disponÃ­veis no arquivo train.csv). Este arquivo, e apenas ele, deve ser utilizado para todos os desafios. Qualquer dÃºvida a respeito das colunas, consulte o DicionÃ¡rio dos Microdados do Enem 2016.
+Muitas universidades brasileiras utilizam o ENEM para selecionar seus futuros alunos e alunas. Isto Ã© feito com uma mÃ©dia ponderada das notas das provas de matemÃ¡tica, ciÃªncias da natureza, linguagens e cÃ³digos, ciÃªncias humanas e redaÃ§Ã£o, com os pesos abaixo:
+matemÃ¡tica: 3
+ciÃªncias da natureza: 2
+linguagens e cÃ³digos: 1.5
+ciÃªncias humanas: 1
+redaÃ§Ã£o: 3
+No arquivo test.csv crie um modelo para prever nota da prova de matemÃ¡tica (coluna NU_NOTA_MT) de quem participou do ENEM 2016.
 Salve sua resposta em um arquivo chamado answer.csv com duas colunas: NU_INSCRICAO e NU_NOTA_MT.
